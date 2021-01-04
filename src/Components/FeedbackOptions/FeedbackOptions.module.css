@@ -1,0 +1,9 @@
+.btn {
+  width: 100px;
+  height: 30px;
+  cursor: pointer;
+}
+.btn:hover {
+  color: aliceblue;
+  background-color: darkslateblue;
+}
